@@ -4,7 +4,7 @@
 # Written by Lars Boegild Thomsen <lth@cow.dk>
 #
 
-[ -z "$USER" ] && USER=lbthomsen
+[ -z "$USER" ] && USER=gdac
 
 [ -d "prime" ] || mkdir prime
 
